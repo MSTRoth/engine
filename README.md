@@ -32,47 +32,47 @@ This dataset has two main weaknesses. 1) While it is more comprehensive than any
 
 Inventory variables 
 
-aircraft: the name of each platform 
+`aircraft`: the name of each platform 
 
-type: the type of aircraft. Includes: Bomber, FighterAttack, Helicopter, Recon, Tanker, Trainer, and Transport
+`type`: the type of aircraft. Includes: Bomber, FighterAttack, Helicopter, Recon, Tanker, Trainer, and Transport
 
-year: the fiscal year  
+`year`: the fiscal year  
 
-amount: the number for each platform in the USAF Total Active Inventory 
+`amount`: the number for each platform in the USAF Total Active Inventory 
 
-engine: the name of each engine
+`engine`: the name of each engine
 
-engine_type: the type of engine. Includes: Radial, Turbofan, Turbojet, Turboprop, and Turboshaft 
+`engine_type`: the type of engine. Includes: Radial, Turbofan, Turbojet, Turboprop, and Turboshaft 
 
-engine_number: the number of engines on the specific aircraft 
+`engine_number`: the number of engines on the specific aircraft 
 
-engine_company: the main manufacturer for each engine 
+`engine_company`: the main manufacturer for each engine 
 
-takeoff_weight: max listed takeoff weight in pounds 
+`takeoff_weight`: max listed takeoff weight in pounds 
 
-speed: max listed speed in mph
+`speed`: max listed speed in mph
 
-range: max listed range in mi 
+`range`: max listed range in mi 
 
-ceiling: max listed service ceiling in ft 
+`ceiling`: max listed service ceiling in ft 
 
-climb_rate: listed rate of climb in ft/min
+`climb_rate`: listed rate of climb in ft/min
 
-thrust_weight_aircraft: listed thrust/weight ratio of the aircraft
+`thrust_weight_aircraft`: listed thrust/weight ratio of the aircraft
 
-thrust: max listed thrust of the engine in lbs  
+`thrust`: max listed thrust of the engine in lbs  
 
-pressure_ratio: listed overall pressure ratio 
+`pressure_ratio`: listed overall pressure ratio 
 
-engine_weight: listed engine weight in lbs 
+`engine_weight`: listed engine weight in lbs 
 
-thrust_weight_engine: listed thurst/weight ratio of the engine 
+`thrust_weight_engine`: listed thurst/weight ratio of the engine 
 
-intro_year: the first year that the aircraft appeared in the USAF Total Active Inventory 
+`intro_year`: the first year that the aircraft appeared in the USAF Total Active Inventory 
 
-peak_amount: the max amount for each aircraft between 1950 - present
+`peak_amount`: the max amount for each aircraft between 1950 - present
 
-generation: the fighter generation for FighterAttack aircraft 
+`generation`: the fighter generation for FighterAttack aircraft 
 
 
 
