@@ -4,11 +4,11 @@ This folder includes coding work for the Future of Military Engines project.
 
 There are three main datasets. 
 
-1. **inventory** `USAF aircraft inventory` / `engines` / `specs` (.../inventory) 
+1. **inventory**: `USAF aircraft inventory` / `engines` / `specs` (.../inventory) 
 
-2. **contracts** Federal Procurement Data System contract numbers for military engiens (.../fpds) 
+2. **contracts**: Federal Procurement Data System contract numbers for military engiens (.../contracts) 
 
-3. **budget** Future Years Defense Program RDTE funding for military engines (.../fydp) 
+3. **budget**: Future Years Defense Program RDTE funding for military engines (.../budget) 
 
 # 1. inventory 
 
