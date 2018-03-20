@@ -17,7 +17,7 @@ ggplot(mpg, aes(displ, hwy, colour = class)) +
   geom_point()
 ```
 
-Inventory 
+# Inventory 
 
 The purpose of the inventory dataset is to map out the history of USAF engine trends from 1950-present. This includes the number of aircraft, the number of engines, the age of the fleet, and performance specs of the entire fleet. 
 
