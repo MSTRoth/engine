@@ -76,15 +76,15 @@ This dataset has two main weaknesses. 1) While it is more comprehensive than any
 
 # contracts
 
-FPDS Methodology
+**FPDS methodology**
 
 For nearly a decade, the Defense-Industrial Initiatives Group (DIIG) has issued a series of analytical reports on federal contract spending for national security across the government. These reports are built on FPDS data, presently downloaded in bulk from USAspending.gov. DIIG now maintains its own database of federal spending, including years 1990–2017, that is a combination of data download from FPDS and legacy DD350 data. For this report, however, the study team primarily relied on FY2000–2017. Data before FY2000 require mixing sources and incurs limitations.
 
-Inherent Restrictions of FPDS
+**Inherent restrictions of FPDS**
 
 Since the analysis presented in this report relies almost exclusively on FPDS data, it incurs four notable restrictions. First, contracts awarded as part of overseas contingency operations are not separately classified in FPDS. As a result, we do not distinguish between contracts funded by base budgets and those funded by supplemental appropriations. Second, FPDS includes only prime contracts, and the separate subcontract database (Federal Subaward Reporting System, FSRS) has historically been radically incomplete; only in the last few years have the subcontract data started to approach required levels of quality and comprehensiveness. Therefore, only prime contract data are included in this report. Third, reporting regulations require that only unclassified contracts be included in FPDS. We interpret this to mean that few, if any, classified contracts are in the database. For DoD, this omits a substantial amount of total contract spending, perhaps as much as 10 percent. Such omissions are probably most noticeable in R&D contracts. Finally, classifications of contracts differ between FPDS and individual vendors. For example, some contracts that a vendor may consider as services are labeled as products in FPDS and vice versa. This may cause some discrepancies between vendors’ reports and those of the federal government.
 
-Constant Dollars and Fiscal Years
+**Constant dollars and fiscal years**
 
 All dollar amounts in this data analysis section are reported as constant FY 2016 dollars unless specifically noted otherwise. Dollar amounts for all years are deflated by the implicit GDP deflator calculated by the U.S. Bureau of Economic Analysis, with FY2016 as the base year, allowing the CSIS team to more accurately compare and analyze changes in spending across time. Similarly, all compound annual growth values and percentage growth comparisons are based on constant dollars and thus adjusted for inflation. Due to the native format of FPDS and the ease of comparison with government databases, all references to years conform to the federal fiscal year. FY2017, the most recent complete year in the database, spans from October 1, 2016, to September 30, 2017.
 
