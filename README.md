@@ -30,7 +30,7 @@ Engine performance specs: We identified the most relevant and consistently avail
 
 This dataset has two main weaknesses. 1) While it is more comprehensive than any other publicly available dataset on aircraft and engines, it lacks data for some major categories. For example, we did not assign performance spec for other categories beyond FighterAttack and we did not assign engine inventory data to Helicopter or Trainer aircraft. This is due mainly to the limited scope of this project and to the limited sources that have this type of information. 2) For performance specs, we relied heavily on Wikipedia pages. The primary sources listed on these pages were generally reputable (i.e. Jane’s all the World’s Aircraft), especially for heavily produced aircraft. And when the sources were not listed or the numbers were unclear, we found secondary sources or made assumptions based our analysis of other platforms. Despite these shortcomings, this dataset is a valuable resource for this project because we have a high degree of confidence in the numbers for heavily produced aircraft and because we are focused on overall trend analysis.  
 
-Inventory variables 
+**Inventory variables** 
 
 `aircraft`: the name of each platform 
 
