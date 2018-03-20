@@ -4,20 +4,13 @@ This folder includes coding work for the Future of Military Engines project.
 
 There are three main datasets. 
 
-1. `USAF aircraft inventory` / `engines` / `specs` (.../inventory) 
+1. **inventory** `USAF aircraft inventory` / `engines` / `specs` (.../inventory) 
 
-2. Future Years Defense Program RDTE funding for military engines (.../fydp) 
+2. **contracts** Federal Procurement Data System contract numbers for military engiens (.../fpds) 
 
-3. Federal Procurement Data System contract numbers for military engiens (.../fpds) 
+3. **budget** Future Years Defense Program RDTE funding for military engines (.../fydp) 
 
-``` r
-library(ggplot2)
-
-ggplot(mpg, aes(displ, hwy, colour = class)) + 
-  geom_point()
-```
-
-# inventory 
+# 1. inventory 
 
 The purpose of the inventory dataset is to map out the history of USAF engine trends from 1950-present. This includes the number of aircraft, the number of engines, the age of the fleet, and performance specs of the entire fleet. 
 
@@ -74,7 +67,7 @@ This dataset has two main weaknesses. 1) While it is more comprehensive than any
 
 `generation`: the fighter generation for FighterAttack aircraft 
 
-# contracts
+# 2. contracts
 
 **FPDS methodology**
 
@@ -96,6 +89,6 @@ Despite its flaws, the FPDS is the only comprehensive data source of government 
 
 The 2016 data used in this report were downloaded in January 2017. The 2017 data used in this report was downloaded in January 2018; a full re-download of all back-year data was performed simultaneously.
 
-# budget
+# 3. budget
 
   
